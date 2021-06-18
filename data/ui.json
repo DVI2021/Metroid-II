@@ -1,0 +1,5 @@
+{
+    "ui":           {"sx":0,    "sy":0,  "tileW":24, "tileH":9, "frames":1},
+    "ui_missile":   {"sx":0,    "sy":0, "tileW":24, "tileH":18, "frames":1},
+    "ui_time":      {"sx":0,    "sy":0, "tileW":24, "tileH":26, "frames":1}
+}

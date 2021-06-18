@@ -1,0 +1,7 @@
+{
+	"blue_blue":                 {"sx":0,    "sy":0,  "tileW":48, "tileH":48, "frames":1},
+    "red_red":                  {"sx":0,    "sy":48,  "tileW":48, "tileH":48, "frames":1},
+    "yellow_red":               {"sx":0,    "sy":96,  "tileW":48, "tileH":48, "frames":1},
+    "yellow_blue":               {"sx":0,    "sy":144,  "tileW":48, "tileH":48, "frames":1},
+    "blue_blue2":                 {"sx":0,    "sy":192,  "tileW":48, "tileH":48, "frames":1}
+}

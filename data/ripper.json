@@ -1,0 +1,4 @@
+{
+    "ripper":{"sx":0,"sy":0,"tileW":16,"tileH":8,"frames":1},
+    "frozen_ripper":{"sx":0,"sy":8,"tileW":16,"tileH":8,"frames":1}
+}

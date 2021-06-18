@@ -1,0 +1,9 @@
+body{
+    background: black;
+    background-image: url("images/space.jpg");
+    background-size:cover;
+}
+canvas{
+    border: 10px solid darkgrey;
+    border-radius: 2%;
+}

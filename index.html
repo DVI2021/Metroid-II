@@ -1,0 +1,51 @@
+<!DOCTYPE   HTML>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        
+        <title>Metroid</title>
+        <link rel="stylesheet" type="text/css" href="metroid.css">
+        <link rel="icon" type="image/png" href="images/favicon.ico">
+        <script src='lib/quintus.js'></script>
+        <script src='lib/quintus_sprites.js'></script>
+        <script src='lib/quintus_scenes.js'></script>
+        <script src='lib/quintus_2d.js'></script>
+        <script src='lib/quintus_input.js'></script>
+        <script src='lib/quintus_ui.js'></script>
+        <script src='lib/quintus_touch.js'></script>
+        <script src='lib/quintus_anim.js'></script>
+        <script src='lib/quintus_audio.js'></script>
+        <script src='lib/quintus_tmx.js'></script>
+        <script src='src/game.js'></script>
+        <script src='src/utils/transicion.js'></script>
+        <script src='src/UI/hud.js'></script>
+        <script src='src/samus/samus.js'></script>
+        <script src='src/enemies/skree.js'></script>
+        <script src='src/enemies/zommer.js'></script>
+        <script src='src/enemies/zebetite.js'></script>
+        <script src='src/enemies/explosion.js'></script>
+        <script src='src/enemies/geruta.js'></script>
+        <script src='src/enemies/waver.js'></script>
+        <script src='src/enemies/dessageega.js'></script>
+        <script src='src/enemies/motherBrain.js'></script>
+        <script src='src/enemies/metroid.js'></script>
+        <script src='src/enemies/ripper.js'></script>
+        <script src='src/enemies/lava.js'></script>
+        <script src='src/samus/shootTypes/bullet.js'></script>
+        <script src='src/samus/shootTypes/iceBullet.js'></script>
+        <script src='src/samus/shootTypes/missile.js'></script>
+
+        <style>
+            canvas { background-color:rgb(0, 0, 0); }
+        </style>
+    </head>
+    
+    <body>
+
+        <canvas id='myGame' width="500" height="500" ></canvas>
+
+        <script type="text/javascript">
+            window.onload = game;
+        </script>
+    </body>
+</html>

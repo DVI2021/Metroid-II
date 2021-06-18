@@ -1,0 +1,6 @@
+{
+
+	"samus":                {"sx":0,    "sy":1,  "tileW":25, "tileH":39, "frames":61},
+    "samus_missile":        {"sx":0,    "sy":41, "tileW":25, "tileH":39, "frames":61},
+    "samus_super_missile":  {"sx":0,    "sy":81, "tileW":25, "tileH":39, "frames":61}
+}

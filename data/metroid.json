@@ -1,0 +1,6 @@
+{
+    "metroid":      {"sx":0,    "sy":0, "tileW":24,"tileH":24,"frames":2},
+    "hit":          {"sx":0,    "sy":24,"tileW":24,"tileH":24,"frames":2},
+    "frozen_metroid":       {"sx":0,    "sy":48,"tileW":24,"tileH":24,"frames":2},
+    "frozen_metroid_hit":   {"sx":0,    "sy":72,"tileW":24,"tileH":24,"frames":2}
+}
